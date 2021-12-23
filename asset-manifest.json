@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "./static/css/main.93729b25.chunk.css",
-    "main.js": "./static/js/main.1812c729.chunk.js",
-    "main.js.map": "./static/js/main.1812c729.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.155ac1c9.js",
-    "runtime-main.js.map": "./static/js/runtime-main.155ac1c9.js.map",
-    "static/js/2.54971377.chunk.js": "./static/js/2.54971377.chunk.js",
-    "static/js/2.54971377.chunk.js.map": "./static/js/2.54971377.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/main.93729b25.chunk.css.map": "./static/css/main.93729b25.chunk.css.map",
-    "static/js/2.54971377.chunk.js.LICENSE.txt": "./static/js/2.54971377.chunk.js.LICENSE.txt",
-    "static/media/banner.9b6cf3ee.png": "./static/media/banner.9b6cf3ee.png",
-    "static/media/logo.03f3b0f4.svg": "./static/media/logo.03f3b0f4.svg",
-    "static/media/sign.b9361011.svg": "./static/media/sign.b9361011.svg",
-    "static/media/trash.08fdcf71.svg": "./static/media/trash.08fdcf71.svg"
+    "main.css": "/glo-react-test-firebase/static/css/main.93729b25.chunk.css",
+    "main.js": "/glo-react-test-firebase/static/js/main.1812c729.chunk.js",
+    "main.js.map": "/glo-react-test-firebase/static/js/main.1812c729.chunk.js.map",
+    "runtime-main.js": "/glo-react-test-firebase/static/js/runtime-main.f802bbb0.js",
+    "runtime-main.js.map": "/glo-react-test-firebase/static/js/runtime-main.f802bbb0.js.map",
+    "static/js/2.95388587.chunk.js": "/glo-react-test-firebase/static/js/2.95388587.chunk.js",
+    "static/js/2.95388587.chunk.js.map": "/glo-react-test-firebase/static/js/2.95388587.chunk.js.map",
+    "index.html": "/glo-react-test-firebase/index.html",
+    "static/css/main.93729b25.chunk.css.map": "/glo-react-test-firebase/static/css/main.93729b25.chunk.css.map",
+    "static/js/2.95388587.chunk.js.LICENSE.txt": "/glo-react-test-firebase/static/js/2.95388587.chunk.js.LICENSE.txt",
+    "static/media/banner.9b6cf3ee.png": "/glo-react-test-firebase/static/media/banner.9b6cf3ee.png",
+    "static/media/logo.03f3b0f4.svg": "/glo-react-test-firebase/static/media/logo.03f3b0f4.svg",
+    "static/media/sign.b9361011.svg": "/glo-react-test-firebase/static/media/sign.b9361011.svg",
+    "static/media/trash.08fdcf71.svg": "/glo-react-test-firebase/static/media/trash.08fdcf71.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.155ac1c9.js",
-    "static/js/2.54971377.chunk.js",
+    "static/js/runtime-main.f802bbb0.js",
+    "static/js/2.95388587.chunk.js",
     "static/css/main.93729b25.chunk.css",
     "static/js/main.1812c729.chunk.js"
   ]
